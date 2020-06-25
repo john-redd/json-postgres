@@ -1,0 +1,1 @@
+insert into json_table (doc) values ($1) returning *;

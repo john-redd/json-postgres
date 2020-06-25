@@ -1,0 +1,1 @@
+select * from json_table where id = $1
